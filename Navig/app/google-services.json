@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248828225319",
+    "firebase_url": "https://navig-8369d.firebaseio.com",
+    "project_id": "navig-8369d",
+    "storage_bucket": "navig-8369d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248828225319:android:0367d6e06d998da287ab02",
+        "android_client_info": {
+          "package_name": "com.example.navig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248828225319-dvf69phon8f2hk5tqiueda6jr0tv146h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Yusm0IBD_MYk1cw6kZ1JuqV2QuNCV6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248828225319-dvf69phon8f2hk5tqiueda6jr0tv146h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
